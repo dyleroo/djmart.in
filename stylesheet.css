@@ -2,12 +2,11 @@ html {
 	overflow: scroll;
 	overflow-x: hidden;
 	background-size: cover;
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), -webkit-background-size: cover;
-	background: url(bg1.gif) no-repeat center center fixed;
+	
 }
 
 .home-bg {
-	
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), -webkit-background-size: cover, url(bg1.gif) no-repeat center center fixed;
 }
 
 html.project-bg {
