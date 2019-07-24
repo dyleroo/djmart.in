@@ -7,11 +7,11 @@ html {
 	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), -webkit-background-size: cover;
 }
 
-.home-bg {
+html.home-bg {
 	background: url(bg1.gif) no-repeat center center fixed;
 }
 
-.project-bg {
+html.project-bg {
 	background: url(bg2.gif) no-repeat center center fixed;
 }
 
