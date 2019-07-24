@@ -8,11 +8,11 @@ html {
 }
 
 html.home-bg {
-	background-image: url(bg1.gif)
+	background-image: url(bg1.gif);
 }
 
 html.project-bg {
-	background: url(bg2.gif) no-repeat center center fixed;
+	background-image: url(bg2.gif);
 }
 
 .alert-box {
