@@ -113,6 +113,10 @@ div.ex2 {
 	overflow: hidden;
 }
 
+div.iframe {
+	margin-left: 108px;
+}
+
 .center {
 	display: block;
 	margin-left: auto;
@@ -140,5 +144,4 @@ iframe
 {
 	display: block;
 	justify-content: center;
-	margin-left: 108px;
 }
